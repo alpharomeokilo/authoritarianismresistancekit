@@ -1,7 +1,7 @@
 
 #Authoritarianism Resistance Kit
 
-This guide together with the USB drive you received will enable you to communicate securely and use the internet anonymously while living under the watch of an authoritarian government. It is designed for the computer novice and as such, does not go into any technical details. It's intended use is to provide digital safety while resistint an authoritarian government, but it might be of use to those who have "nothing to hide", who simply want to maximize their privacy. These are simple, effective, and tested methods. 
+This guide together with the USB drive you received will enable you to communicate securely and use the internet anonymously while living under the watch of an authoritarian government. It is designed for the computer novice and as such, does not go into any technical details. Its intended use is to provide digital safety while resisting an authoritarian government, but it might be of use to those who have "nothing to hide", who simply want to maximize their privacy. These are simple, effective, and tested methods. 
 
 `I don't have a USB drive / I was just sent this link / I want to be super duper secure`
 
@@ -23,7 +23,7 @@ This is also the safest possible method even if you received a USB drive, as you
 
 ###A Note About Safety
 
-The only 100% way to be safe under an authoritarian government is to not resist. Authoritarian governments set arbitrary rules for what is and is not considered a National Security Threat. Under some governments, even posession of an encrypted disk is sufficient probable cause to serve a warrant / drag you to an interogation room. 
+The only 100% way to be safe under an authoritarian government is to not resist. Authoritarian governments set arbitrary rules for what is and is not considered a National Security Threat. Under some governments, even possession of an encrypted disk is sufficient probable cause to serve a warrant / drag you to an interrogation room. 
 
 If you want to be 100% safe, throw away this disk or reformat it and use it for another purpose. Despite what others may tell you, you are always free to choose the path of least resistance if that means keeping yourself and your family safe. History is written by survivors. 
 
@@ -68,7 +68,7 @@ Below are descriptions of the tools as well as instructions on how to personaliz
 
 ###1. TAILS Operating System
 
-TAILS allows you to operate any computer while leaving no trace. It is an open-source linux distribution that is self-contained and designed for security. It will clear your system memory every time you exit. 
+TAILS allows you to operate any computer while leaving no trace. It is an open-source Linux distribution that is self-contained and designed for security. It will clear your system memory every time you exit. 
 
 `**Rule #1** Never do any of these activities from your normal computing account. Always boot to TAILS via the USB drive.`
 
@@ -79,7 +79,7 @@ The first thing you will want to do is enable a persistent volume for your TAILS
 1. Click the **Applications** menu in the upper left. 
 2. Click **System Tools**. 
 3. Click **Configure Persistent Volume**. 
-4. For now select **Personal Data** and **Pidgin**. (You may want to select other options later, but hese are good for a quick start.)
+4. For now select **Personal Data** and **Pidgin**. (You may want to select other options later, but these are good for a quick start.)
 5. Enter your password for the persistent volume. NEVER WRITE DOWN PASSWORDS. Use a complex password that will be easy to remember. Two or three words will suffice (e.g. GiantStumblingPorcupine)
 6. You're done. You will now be able to save files in the **Persistent** folder under **Home** as well as keep your Jabber IM credentials in the Pidgin chat program. 
 
@@ -126,13 +126,13 @@ Jabber is an open-source instant messaging protocol that you can register anonym
 8. Click **OTR**.
 9. Click **Authenticate Buddy** or **Re-Authenticate Buddy**.
 10. Ask your question that only they will know the answer to. 
-11. After they have authenticated, ask a followup second question in chat. This is the second layer of authentication. 
+11. After they have authenticated, ask a follow-up second question in chat. This is the second layer of authentication. 
 12. You're securely chatting!
 
 
 `**Rule #3** Always re-authenticate your contact when you start speaking. This may seem like a hassle, but it is the only way to guarantee your contact has not been compromised.`
 
-*Question: what if my contact is being coerced?* If for your secondary question your contact gives a wrong answer that is close to the right answer, they are sending a signal that they are being coerced. For instance, if you ask "Who is Marge's husband in the Simpons?" and they answer "Gomer", you should play along and pretend to continue the chat. Give wrong information or be vague. This will guarantee their safety (at least immediately). 
+*Question: what if my contact is being coerced?* If for your secondary question your contact gives a wrong answer that is close to the right answer, they are sending a signal that they are being coerced. For instance, if you ask "Who is Marge's husband in the Simpsons?" and they answer "Gomer", you should play along and pretend to continue the chat. Give wrong information or be vague. This will guarantee their safety (at least immediately). 
 
 
 ###4. Anonymous email
@@ -161,7 +161,7 @@ This app, available in the App Store or the Google Play Store, allows you to sen
 
 Now that you have set up your USB Drive, your IM, your email, and your text, what next? Well, first let's cover what NOT to do next.
 
-**DO NOT** send an email or text via an unsecure line to whomever sent you this link or gave you this drive. Maybe you want to thank them, maybe you have questions, maybe you think this level of security is ludicrous and only proportionate to a grossly exagerated imagined threat. Whatever you want to say, say it securely. Use Signal. Say it in person. Get their secure email or their secure IM (via Signal or in person) and say it that way. 
+**DO NOT** send an email or text via an insecure line to whomever sent you this link or gave you this drive. Maybe you want to thank them, maybe you have questions, maybe you think this level of security is ludicrous and only proportionate to a grossly exaggerated imagined threat. Whatever you want to say, say it securely. Use Signal. Say it in person. Get their secure email or their secure IM (via Signal or in person) and say it that way. 
 
 If you choose to participate in a circle of trust, you must fully participate. That means you abide by the rules. That means you do not talk, text, email, or IM about potentially compromising information unless you are using the tools and rules outlined in this guide. 
 
