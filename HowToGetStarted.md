@@ -149,13 +149,13 @@ This app, available in the App Store or the Google Play Store, allows you to sen
 
 ##Five Rules of Safety
 
-```
-- **Rule #1** Never do any of these activities from your normal computing account. Always boot to TAILS via the USB drive.
-- **Rule #2** Never log into any personalized service while using TOR. No facebook, amazon, gmail, etc. If you log in, your identity is compromised. 
-- **Rule #3** Always re-authenticate your contact when you start speaking. This may seem like a hassle, but it is the only way to guarantee your contact has not been compromised. 
-- **Rule #4** Never send mail to known identity emails (e.g. Gmail addresses) using anonymous email. If you absolutely must, enable encryption for the email by clicking the lock icon at the bottom of the Compose Email window. 
-- **Rule #5** Always delete your texting conversations in Signal after you are done.
-```
+
+`**Rule #1** Never do any of these activities from your normal computing account. Always boot to TAILS via the USB drive.`
+`**Rule #2** Never log into any personalized service while using TOR. No facebook, amazon, gmail, etc. If you log in, your identity is compromised.`
+`**Rule #3** Always re-authenticate your contact when you start speaking. This may seem like a hassle, but it is the only way to guarantee your contact has not been compromised.`
+`**Rule #4** Never send mail to known identity emails (e.g. Gmail addresses) using anonymous email. If you absolutely must, enable encryption for the email by clicking the lock icon at the bottom of the Compose Email window.` 
+`**Rule #5** Always delete your texting conversations in Signal after you are done.`
+
 
 ##What Next? / Putting It All Together
 
