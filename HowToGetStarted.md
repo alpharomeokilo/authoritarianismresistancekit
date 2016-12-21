@@ -49,7 +49,7 @@ The tools themselves are only part of the kit. You must also use them correctly 
 Below are descriptions of the tools as well as instructions on how to personalize them, if necessary. 
 
 1. [Concerning TAILS](#1-tails-operating-system)
-2. [Concerning TOR](#2-tor-browser--network
+2. [Concerning TOR](#2-tor-browser--network)
 3. [Concerning Jabber](#3-jabber-instant-messaging-protocol)
 4. [Concerning Email](#4-anonymous-email)
 5. [Concerning Texting](#5-signal-app-for-texting)
