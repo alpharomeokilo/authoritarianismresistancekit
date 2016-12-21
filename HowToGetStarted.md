@@ -6,9 +6,9 @@ This guide together with the USB drive you received will enable you to communica
 ##Contents
 
 1. [Disclaimers](#disclaimers)
-2. [The Kit](#thekit)
-3. [About the Tools and How to Use Them]()
-4. [The Five Rules of Safety]()
+2. [The Kit](#the-kit)
+3. [About the Tools and How to Use Them](#about-the-tools-and-how-to-use-them)
+4. [The Five Rules of Safety](#five-rules-of-safety)
 
 ##Disclaimers
 
@@ -47,6 +47,12 @@ The tools themselves are only part of the kit. You must also use them correctly 
 ##About the Tools and How to Use Them
 
 Below are descriptions of the tools as well as instructions on how to personalize them, if necessary. 
+
+1. [Concerning TAILS](#1-tails-operating-system)
+2. [Concerning TOR](#2-tor-browser--network
+3. [Concerning Jabber](#3-jabber-instant-messaging-protocol)
+4. [Concerning Email](#4-anonymous-email)
+5. [Concerning Texting](#5-signal-app-for-texting)
 
 - **Rules** Each tool as one or two associated rules, which are critical. These are also collected at the bottom of this guide. 
 
