@@ -3,11 +3,13 @@
 
 This guide together with the USB drive you received will enable you to communicate securely and use the internet anonymously while living under the watch of an authoritarian government. It is designed for the computer novice and as such, does not go into any technical details. It's intended use is to provide digital safety while resistint an authoritarian government, but it might be of use to those who have "nothing to hide", who simply want to maximize their privacy. These are simple, effective, and tested methods. 
 
-'''I don't have a USB drive / I was just sent this link / I want to be super duper secure
+'''
+I don't have a USB drive / I was just sent this link / I want to be super duper secure
 
 You can create your own USB drive by installing the TAILS operating system via [https://tails.boum.org/home/index.en.html](https://tails.boum.org/home/index.en.html). It's a bit laborious, but worth it. (If you go this route, be sure you verify the image before installing, as per the directions.)
 
 This is also the safest possible method even if you received a USB drive, as you are guaranteeing a fresh drive with no possibility of tamper.
+
 '''
 
 ##Contents
