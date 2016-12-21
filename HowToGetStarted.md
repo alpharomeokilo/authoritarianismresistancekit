@@ -25,7 +25,7 @@ This is also the safest possible method even if you received a USB drive, as you
 
 The only 100% way to be safe under an authoritarian government is to not resist. Authoritarian governments set arbitrary rules for what is and is not considered a National Security Threat. Under some governments, even posession of an encrypted disk is sufficient probable cause to serve a warrant / drag you to an interogation room. 
 
-If you want to bee 100% safe, throw away this disk or reformat it and use it for another purpose. Despite what others may tell you, you are always free to choose the path of least resistance if that means keeping yourself and your family safe. History is written by survivors. 
+If you want to be 100% safe, throw away this disk or reformat it and use it for another purpose. Despite what others may tell you, you are always free to choose the path of least resistance if that means keeping yourself and your family safe. History is written by survivors. 
 
 If you are curious and want to keep this kit handy, be prepared to keep it hidden. Via this guide you will be personalizing the USB drive. Though your drive will be encrypted, the most secure drive is one that is not found. 
 
