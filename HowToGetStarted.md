@@ -41,6 +41,9 @@ Yes. This guide is open and available to anybody. The tools are open and availab
 
 It is also important to expose these tools and methods to a wide audience, so that they might be revised for maximum effectiveness over time. 
 
+***
+
+
 ##The Kit
 
 This kit has five main components:
@@ -72,7 +75,7 @@ TAILS allows you to operate any computer while leaving no trace. It is an open-s
 
 `**Rule #1** Never do any of these activities from your normal computing account. Always boot to TAILS via the USB drive.`
 
-####ACTION IN TAILS - Enable a Persistent Drive 
+####DO THIS NOW - Enable a Persistent Drive 
 
 The first thing you will want to do is enable a persistent volume for your TAILS drive. This means your information will be saved on the drive; otherwise TAILS wipes all information every time it restarts. 
 
@@ -97,7 +100,7 @@ TOR is not 100% safe, but when used with TAILS it provides decent safety for a n
 
 Jabber is an open-source instant messaging protocol that you can register anonymously. It supports OTR (Off the Record) encryption, which will allow you to talk with contacts such that a snooping third party will only see encrypted messages. 
 
-####ACTION - Sign up for Jabber IM
+####DO THIS NOW - Sign up for Jabber IM
 
 1. Within TOR (always use TOR for any online step written here) go to [www.jabber.org](http://www.jabber.org).
 2. Click **Public XMPP Services**. [link](https://xmpp.net/directory.php)
@@ -114,7 +117,7 @@ Jabber is an open-source instant messaging protocol that you can register anonym
 13. Click **Add**.
 14. You're done!
 
-####ACTION - establish a secure chat
+####DO THIS NOW - establish a secure chat
 
 1. In Pidgin click on your **Buddy List** window. (If you can't see it, click on the green circle chat icon at the top of the screen.)
 2. Click **Buddies** and **New Instant Message**.
