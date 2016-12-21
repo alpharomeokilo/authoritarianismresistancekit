@@ -180,6 +180,7 @@ When you talk about this kit, do not use real names. Get in the habit of using u
 2. Click **System Tools**
 3. Click **Tails Installer**
 4. Select **Install by Cloning**
+5. Repeat your experience by giving them the drive with a printout of the URL for this guide. (You can use http://goo.gl or http://bit.ly or http://tinyurl.com to shorten it down)
 
 ###What Should I Do if I Have a Suggestion?
 
