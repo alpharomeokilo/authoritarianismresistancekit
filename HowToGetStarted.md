@@ -120,7 +120,7 @@ Jabber is an open-source instant messaging protocol that you can register anonym
 12. You're securely chatting!
 
 
-- **Rule #3** Always re-authenticate your contact when you start speaking. This may seem like a hassle, but it is the only way to guarantee your contact has not been compromised. See below on how to do this.
+- **Rule #3** Always re-authenticate your contact when you start speaking. This may seem like a hassle, but it is the only way to guarantee your contact has not been compromised.
 
 *Question: what if my contact is being coerced?* If for your secondary question your contact gives a wrong answer that is close to the right answer, they are sending a signal that they are being coerced. For instance, if you ask "Who is Marge's husband in the Simpons?" and they answer "Gomer", you should play along and pretend to continue the chat. Give wrong information or be vague. This will guarantee their safety (at least immediately). 
 
@@ -142,6 +142,6 @@ This app, available in the App Store or the Google Play Store, allows you to sen
 
 - **Rule #1** Never do any of these activities from your normal computing account. Always boot to TAILS via the USB drive.
 - **Rule #2** Never log into any personalized service while using TOR. No facebook, amazon, gmail, etc. If you log in, your identity is compromised. 
-- **Rule #3** Always re-authenticate your contact when you start speaking. This may seem like a hassle, but it is the only way to guarantee your contact has not been compromised. See below on how to do this.
+- **Rule #3** Always re-authenticate your contact when you start speaking. This may seem like a hassle, but it is the only way to guarantee your contact has not been compromised. 
 - **Rule #4** Never send mail to known identity emails (e.g. Gmail addresses) using anonymous email. If you absolutely must, enable encryption for the email by clicking the lock icon at the bottom of the Compose Email window. 
 - **Rule #5** Always delete your conversations after you are done.
