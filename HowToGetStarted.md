@@ -66,7 +66,7 @@ Below are descriptions of the tools as well as instructions on how to personaliz
 4. [Concerning Email](#4-anonymous-email)
 5. [Concerning Texting](#5-signal-app-for-texting)
 
-`**Rules** Each tool as one or two associated rules, which are critical. These are also collected at the bottom of this guide.`
+**-->** `RULES - Each tool as one or two associated rules, which are critical. These are also collected at the bottom of this guide.`
 
 
 ###1. TAILS Operating System
