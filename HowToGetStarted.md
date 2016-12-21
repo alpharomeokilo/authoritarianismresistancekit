@@ -9,6 +9,7 @@ This guide together with the USB drive you received will enable you to communica
 2. [The Kit](#the-kit)
 3. [About the Tools and How to Use Them](#about-the-tools-and-how-to-use-them)
 4. [The Five Rules of Safety](#five-rules-of-safety)
+5. [What Next? / Putting It All Together]()
 
 ##Disclaimers
 
@@ -145,3 +146,31 @@ This app, available in the App Store or the Google Play Store, allows you to sen
 - **Rule #3** Always re-authenticate your contact when you start speaking. This may seem like a hassle, but it is the only way to guarantee your contact has not been compromised. 
 - **Rule #4** Never send mail to known identity emails (e.g. Gmail addresses) using anonymous email. If you absolutely must, enable encryption for the email by clicking the lock icon at the bottom of the Compose Email window. 
 - **Rule #5** Always delete your texting conversations in Signal after you are done.
+
+
+##What Next? / Putting It All Together
+
+Now that you have set up your USB Drive, your IM, your email, and your text, what next? Well, first let's cover what NOT to do next.
+
+**DO NOT** send an email or text via an unsecure line to whomever sent you this link or gave you this drive. Maybe you want to thank them, maybe you have questions, maybe you think this level of security is ludicrous and only proportionate to a grossly exagerated imagined threat. Whatever you want to say, say it securely. Use Signal. Say it in person. Get their secure email or their secure IM (via Signal or in person) and say it that way. 
+
+If you choose to participate in a circle of trust, you must fully participate. That means you abide by the rules. That means you do not talk, text, email, or IM about potentially compromising information unless you are using the tools and rules outlined in this guide. 
+
+###Which Tool Should I Use When?
+
+It's really up to you. The most secure option is talking via secure IM, since the conversation happens in real time and is not saved. Second to that is Signal. Third is email. Fourth is talking in person UNLESS you are positive the area is not bugged. 
+
+###Who Can I Talk to About This?
+
+You are welcome to invite anybody into the circle of trust, but be careful. Ask yourself, how well do I know this person? 
+
+When you talk about this kit, do not use real names. Get in the habit of using usernames instead. The quickest way to compromise the network is to mix and mingle it with your existing social network, telling Bob about this kit you got from Susie and asking him what he thinks of it. 
+
+###What Should I Do if I Have a Suggestion?
+
+This is on Github, so learn to use Git, fork it, and make a pull request!
+
+
+##That's It
+
+You now have some simple, yet powerful tools to resist an authoritarian government, should you need them. Be wise, be focused, be safe. 
