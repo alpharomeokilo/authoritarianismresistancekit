@@ -17,7 +17,7 @@ This is also the safest possible method even if you received a USB drive, as you
 2. [The Kit](#the-kit)
 3. [About the Tools and How to Use Them](#about-the-tools-and-how-to-use-them)
 4. [The Five Rules of Safety](#five-rules-of-safety)
-5. [What Next? / Putting It All Together]()
+5. [What Next? / Putting It All Together](#what-next--putting-it-all-together)
 
 ##Disclaimers
 
