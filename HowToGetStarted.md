@@ -3,8 +3,7 @@
 
 This guide together with the USB drive you received will enable you to communicate securely and use the internet anonymously while living under the watch of an authoritarian government. It is designed for the computer novice and as such, does not go into any technical details. It's intended use is to provide digital safety while resistint an authoritarian government, but it might be of use to those who have "nothing to hide", who simply want to maximize their privacy. These are simple, effective, and tested methods. 
 
-'''I don't have a USB drive / I was just sent this link / I want to be super duper secure
-'''
+`I don't have a USB drive / I was just sent this link / I want to be super duper secure`
 
 You can create your own USB drive by installing the TAILS operating system via [https://tails.boum.org/home/index.en.html](https://tails.boum.org/home/index.en.html). It's a bit laborious, but worth it. (If you go this route, be sure you verify the image before installing, as per the directions.)
 
@@ -64,14 +63,14 @@ Below are descriptions of the tools as well as instructions on how to personaliz
 4. [Concerning Email](#4-anonymous-email)
 5. [Concerning Texting](#5-signal-app-for-texting)
 
-'''**Rules** Each tool as one or two associated rules, which are critical. These are also collected at the bottom of this guide. 
-'''
+`**Rules** Each tool as one or two associated rules, which are critical. These are also collected at the bottom of this guide.`
+
+
 ###1. TAILS Operating System
 
 TAILS allows you to operate any computer while leaving no trace. It is an open-source linux distribution that is self-contained and designed for security. It will clear your system memory every time you exit. 
 
-''' **Rule #1** Never do any of these activities from your normal computing account. Always boot to TAILS via the USB drive.
-'''
+`**Rule #1** Never do any of these activities from your normal computing account. Always boot to TAILS via the USB drive.`
 
 ####ACTION IN TAILS - Enable a Persistent Drive 
 
@@ -92,8 +91,8 @@ The Onion Relay (TOR) is a network of volunteer nodes that allow you to bounce y
 
 TOR is not 100% safe, but when used with TAILS it provides decent safety for a novice. 
 
-'''**Rule #2** Never log into any personalized service while using TOR. No facebook, amazon, gmail, etc. If you log in, your identity is compromised. 
-'''
+`**Rule #2** Never log into any personalized service while using TOR. No facebook, amazon, gmail, etc. If you log in, your identity is compromised.`
+
 ###3. Jabber Instant Messaging Protocol
 
 Jabber is an open-source instant messaging protocol that you can register anonymously. It supports OTR (Off the Record) encryption, which will allow you to talk with contacts such that a snooping third party will only see encrypted messages. 
@@ -131,8 +130,8 @@ Jabber is an open-source instant messaging protocol that you can register anonym
 12. You're securely chatting!
 
 
-'''**Rule #3** Always re-authenticate your contact when you start speaking. This may seem like a hassle, but it is the only way to guarantee your contact has not been compromised.
-'''
+`**Rule #3** Always re-authenticate your contact when you start speaking. This may seem like a hassle, but it is the only way to guarantee your contact has not been compromised.`
+
 *Question: what if my contact is being coerced?* If for your secondary question your contact gives a wrong answer that is close to the right answer, they are sending a signal that they are being coerced. For instance, if you ask "Who is Marge's husband in the Simpons?" and they answer "Gomer", you should play along and pretend to continue the chat. Give wrong information or be vague. This will guarantee their safety (at least immediately). 
 
 
@@ -140,23 +139,23 @@ Jabber is an open-source instant messaging protocol that you can register anonym
 
 Use [www.protonmail.com](http://www.protonmail.com) to establish anonymous email. This is a fairly simple process so I won't outline the steps. 
 
-'''**Rule #4** Never send mail to known identity emails (e.g. Gmail addresses) using anonymous email. If you absolutely must, enable encryption for the email by clicking the lock icon at the bottom of the Compose Email window. 
-'''
+`**Rule #4** Never send mail to known identity emails (e.g. Gmail addresses) using anonymous email. If you absolutely must, enable encryption for the email by clicking the lock icon at the bottom of the Compose Email window.`
+
 ###5. Signal App for Texting
 
 This app, available in the App Store or the Google Play Store, allows you to send encrypted text messages to contacts in your phone. Use it only to coordinate when on the ground or to plan conversations via IM. 
 
-'''**Rule #5** Always delete your texting conversations in Signal after you are done.
-'''
+`**Rule #5** Always delete your texting conversations in Signal after you are done.`
 
 ##Five Rules of Safety
 
+```
 - **Rule #1** Never do any of these activities from your normal computing account. Always boot to TAILS via the USB drive.
 - **Rule #2** Never log into any personalized service while using TOR. No facebook, amazon, gmail, etc. If you log in, your identity is compromised. 
 - **Rule #3** Always re-authenticate your contact when you start speaking. This may seem like a hassle, but it is the only way to guarantee your contact has not been compromised. 
 - **Rule #4** Never send mail to known identity emails (e.g. Gmail addresses) using anonymous email. If you absolutely must, enable encryption for the email by clicking the lock icon at the bottom of the Compose Email window. 
 - **Rule #5** Always delete your texting conversations in Signal after you are done.
-
+```
 
 ##What Next? / Putting It All Together
 
