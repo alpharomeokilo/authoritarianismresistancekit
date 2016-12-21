@@ -66,12 +66,12 @@ TAILS allows you to operate any computer while leaving no trace. It is an open-s
 
 The first thing you will want to do is enable a persistent volume for your TAILS drive. This means your information will be saved on the drive; otherwise TAILS wipes all information every time it restarts. 
 
-1. Click the ++Applications++ menu in the upper left. 
-2. Click ++System Tools++. 
-3. Click ++Configure Persistent Volume++. 
-4. For now select ++Personal Data++ and ++Pidgin++. (You may want to select other options later, but hese are good for a quick start.)
+1. Click the **Applications** menu in the upper left. 
+2. Click **System Tools**. 
+3. Click **Configure Persistent Volume**. 
+4. For now select **Personal Data** and **Pidgin**. (You may want to select other options later, but hese are good for a quick start.)
 5. Enter your password for the persistent volume. NEVER WRITE DOWN PASSWORDS. Use a complex password that will be easy to remember. Two or three words will suffice (e.g. GiantStumblingPorcupine)
-6. You're done. You will now be able to save files in the ++Persistent++ folder under ++Home++ as well as keep your Jabber IM credentials in the Pidgin chat program. 
+6. You're done. You will now be able to save files in the **Persistent** folder under **Home** as well as keep your Jabber IM credentials in the Pidgin chat program. 
 
 ###2. TOR Browser / Network
 
@@ -90,31 +90,31 @@ Jabber is an open-source instant messaging protocol that you can register anonym
 ####ACTION - Sign up for Jabber IM
 
 1. Within TOR (always use TOR for any online step written here) go to [www.jabber.org](http://www.jabber.org).
-2. Click ++Public XMPP Services++. [link](https://xmpp.net/directory.php)
-3. Select any service with a ++AA++ rating. Preferably one that is fairly recent (e.g. [im.koderoot.net](https://space.koderoot.net/))
-4. Find the ++Registration++ or ++Web Registration++ link on the page (e.g. [https://im.koderoot.net/xmpp_register](https://im.koderoot.net/xmpp_register))
+2. Click **Public XMPP Services**. [link](https://xmpp.net/directory.php)
+3. Select any service with a **AA** rating. Preferably one that is fairly recent (e.g. [im.koderoot.net](https://space.koderoot.net/))
+4. Find the **Registration** or **Web Registration** link on the page (e.g. [https://im.koderoot.net/xmpp_register](https://im.koderoot.net/xmpp_register))
 5. Register a new IM username and password. Your new username will be YOURNAME@RegisteringDomain.com (e.g. LargeSleepingOwl@im.koderoot.net)
 6. Minimize the TOR browser. 
-7. Launch Pidgin via the ++Applications++ menu in the upper left. 
-8. Click ++Add++ to add your new account. 
-9. For ++Protocol++ select ++XMPP++.
+7. Launch Pidgin via the **Applications** menu in the upper left. 
+8. Click **Add** to add your new account. 
+9. For **Protocol** select **XMPP**.
 10. Enter your new username (e.g. LargeSleepingOwl).
 11. Enter your domain (e.g. im.koderoot.net).
 12. Enter your new password. 
-13. Click ++Add++.
+13. Click **Add**.
 14. You're done!
 
 ####ACTION - establish a secure chat
 
-1. In Pidgin click on your ++Buddy List++ window. (If you can't see it, click on the green circle chat icon at the top of the screen.)
-2. Click ++Buddies++ and ++New Instant Message++.
+1. In Pidgin click on your **Buddy List** window. (If you can't see it, click on the green circle chat icon at the top of the screen.)
+2. Click **Buddies** and **New Instant Message**.
 3. Enter the full address of your contact (e.g. SmallWakingRabbit@im.koderoot.net). 
 4. Say hello.
-5. Click ++OTR++ in the menu.
-6. Click ++Start Private Conversation++.
-7. Click ++OK++.
-8. Click ++OTR++.
-9. Click ++Authenticate Buddy++ or ++Re-Authenticate Buddy++.
+5. Click **OTR** in the menu.
+6. Click **Start Private Conversation**.
+7. Click **OK**.
+8. Click **OTR**.
+9. Click **Authenticate Buddy** or **Re-Authenticate Buddy**.
 10. Ask your question that only they will know the answer to. 
 11. After they have authenticated, ask a followup second question in chat. This is the second layer of authentication. 
 12. You're securely chatting!
