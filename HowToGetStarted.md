@@ -3,6 +3,13 @@
 
 This guide together with the USB drive you received will enable you to communicate securely and use the internet anonymously while living under the watch of an authoritarian government. While this kit is designed for resistors to an authoritarian government, it might be of use to those who have "nothing to hide", but simply want to maximize their privacy. These are simple, effective, and tested methods. 
 
+##Contents
+
+1. [Disclaimers](#disclaimers)
+2. [The Kit](#thekit)
+3. [About the Tools and How to Use Them]()
+4. [The Five Rules of Safety]()
+
 ##Disclaimers
 
 ###A Note About Safety
@@ -37,7 +44,7 @@ This kit has five main components:
 
 The tools themselves are only part of the kit. You must also use them correctly and follow strict protocols, as outlined in the Five Rules of Safety. 
 
-##About the Tools 
+##About the Tools and How to Use Them
 
 Below are descriptions of the tools as well as instructions on how to personalize them, if necessary. 
 
