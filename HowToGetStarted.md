@@ -35,11 +35,13 @@ This kit has five main components:
 4. Secure and anonymous email
 5. The Signal app for secure texting
 
-The tools themselves are only part of the kit. You must also use them correctly and follow strict protocols. 
+The tools themselves are only part of the kit. You must also use them correctly and follow strict protocols, as outlined in the Five Rules of Safety. 
 
 ##About the Tools 
 
-Below are descriptions of the tools as well as instructions on how to personalize them, if necessary. Each tool as one or two associated rules, which are critical. 
+Below are descriptions of the tools as well as instructions on how to personalize them, if necessary. 
+
+- **Rules** Each tool as one or two associated rules, which are critical. These are also collected at the bottom of this guide. 
 
 ###1. TAILS Operating System
 
@@ -47,7 +49,7 @@ TAILS allows you to operate any computer while leaving no trace. It is an open-s
 
 - **Rule #1** Never do any of these activities from your normal computing account. Always boot to TAILS via the USB drive.
 
-####Action - Enable a Persistent Drive 
+####ACTION IN TAILS - Enable a Persistent Drive 
 
 The first thing you will want to do is enable a persistent volume for your TAILS drive. This means your information will be saved on the drive; otherwise TAILS wipes all information every time it restarts. 
 
@@ -105,7 +107,7 @@ Jabber is an open-source instant messaging protocol that you can register anonym
 12. You're securely chatting!
 
 
-**Rule #3** Always re-authenticate your contact when you start speaking. This may seem like a hassle, but it is the only way to guarantee your contact has not been compromised. See below on how to do this.
+- **Rule #3** Always re-authenticate your contact when you start speaking. This may seem like a hassle, but it is the only way to guarantee your contact has not been compromised. See below on how to do this.
 
 *Question: what if my contact is being coerced?* If for your secondary question your contact gives a wrong answer that is close to the right answer, they are sending a signal that they are being coerced. For instance, if you ask "Who is Marge's husband in the Simpons?" and they answer "Gomer", you should play along and pretend to continue the chat. Give wrong information or be vague. This will guarantee their safety (at least immediately). 
 
@@ -114,12 +116,19 @@ Jabber is an open-source instant messaging protocol that you can register anonym
 
 Use [www.protonmail.com](http://www.protonmail.com) to establish anonymous email. This is a fairly simple process so I won't outline the steps. 
 
-
-**Rule #4** Never send mail to known identity emails (e.g. Gmail addresses) using anonymous email. If you absolutely must, enable encryption for the email by clicking the lock icon at the bottom of the Compose Email window. 
+- **Rule #4** Never send mail to known identity emails (e.g. Gmail addresses) using anonymous email. If you absolutely must, enable encryption for the email by clicking the lock icon at the bottom of the Compose Email window. 
 
 ###5. Signal App for Texting
 
 This app, available in the App Store or the Google Play Store, allows you to send encrypted text messages to contacts in your phone. Use it only to coordinate when on the ground or to plan conversations via IM. 
 
-**Rule #5** Always delete your conversations after you are done.
+- **Rule #5** Always delete your conversations after you are done.
 
+
+##Five Rules of Safety
+
+- **Rule #1** Never do any of these activities from your normal computing account. Always boot to TAILS via the USB drive.
+- **Rule #2** Never log into any personalized service while using TOR. No facebook, amazon, gmail, etc. If you log in, your identity is compromised. 
+- **Rule #3** Always re-authenticate your contact when you start speaking. This may seem like a hassle, but it is the only way to guarantee your contact has not been compromised. See below on how to do this.
+- **Rule #4** Never send mail to known identity emails (e.g. Gmail addresses) using anonymous email. If you absolutely must, enable encryption for the email by clicking the lock icon at the bottom of the Compose Email window. 
+- **Rule #5** Always delete your conversations after you are done.
